@@ -19,7 +19,7 @@
     "MobileCoreServices",
     "AssetsLibrary"
   ],
-  "source_files": "CordovaLib/Classes/*.{h,m}",
+  "source_files": "CordovaLib/Classes/**/*.{h,m}",
   "preserve_paths": [
     "CordovaLib/cordova.js",
     "CordovaLib/VERSION"
